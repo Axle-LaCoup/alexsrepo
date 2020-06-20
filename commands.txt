@@ -1,0 +1,6 @@
+1: sudo apt update
+2: sudo apt dist-upgrade
+3: sudo apt install -y git
+4: git config --global user.name "Axle-LaCoup"
+5: git config --global user.email alexlecompte1@gmail.com
+6: git clone https://github.com/Axle-LaCoup/alexsrepo.git
